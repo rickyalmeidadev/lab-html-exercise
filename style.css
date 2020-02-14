@@ -237,11 +237,14 @@ h1 {
 }
 
 .block-info img {
-  width: 30px;
+  width: 35px;
+  height: 35px;
 }
 
 .block-info {
   padding: 20px;
+  width: 224.03px;
+  height: 258.47px;
 }
 
 .block-info h3 {
